@@ -1,2 +1,2 @@
 # merge-test
-Test. 
+This is for internal use. 
